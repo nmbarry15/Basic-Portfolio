@@ -1,0 +1,73 @@
+* {
+    text-align: center;
+}
+
+.top-outside{
+    background: #ffffff;
+    overflow: auto;
+    width: 100%;
+    border-bottom-style: inset;
+    border-bottom-color: #cccccc;
+    border-bottom-width: 5px;
+    position: fixed;
+    top: 0;
+    padding-top: 10px;
+}
+
+.top-inside{
+    background: #ffffff;
+    margin: 0 auto;
+    align-self: center;
+    width: 960px;
+    overflow: auto;
+}
+
+.top-name{
+    width: auto;
+    overflow: auto;
+    padding: 25px;
+    border-top: 50px;
+    float: left;
+    background: #4aaaa5;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#button {
+    width: 80px;
+    background: #ffffff;
+    color: #777777;
+    float: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: none;
+    padding: 20px;
+    margin-top: 15px;
+    text-align: center;
+}
+a {
+    text-align: center;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+.main-outside{
+    padding: 90px;
+    background-image: url("../images/full-bloom.png");
+    background-repeat: repeat;
+}
+
+.main-inside{
+    background: #ffffff;
+    margin: auto;
+    align-self: center;
+    padding: 10px;
+    width: 960px;
+    height: 1000px;
+    border-style: solid;
+    border-color: #dddddd;
+    border-width: 2px;
+}
+
