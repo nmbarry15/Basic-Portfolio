@@ -2,6 +2,8 @@ body{
     /* padding: 90px; */
     background-image: url("../images/full-bloom.png");
     background-repeat: repeat;
+    margin: 0;
+    padding: 0;
 }
 
 .top-outside{
